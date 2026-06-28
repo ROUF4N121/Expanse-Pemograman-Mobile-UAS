@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419970480059",
+    "project_id": "expanse-a4cd4",
+    "storage_bucket": "expanse-a4cd4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "secret",
+        "android_client_info": {
+          "package_name": "com.rousoft.expanse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "secret"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

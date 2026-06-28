@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">ExPanse</string>
+    <string name="slogan">Belanja Cerdas</string>
+
+    <string name="create_account_title">Buat akun,</string>
+    <string name="create_account_subtitle">untuk mulai sekarang!</string>
+    <string name="email_label">Email</string>
+    <string name="enter_email">Masukkan Email Anda</string>
+    <string name="password_label">Kata Sandi</string>
+    <string name="enter_password">Masukkan Kata Sandi Anda</string>
+    <string name="confirm_password_label">Konfirmasi Kata Sandi</string>
+    <string name="sign_up_btn">Daftar</string>
+    <string name="or_signup_with">Atau Daftar Dengan</string>
+    <string name="continue_google">Lanjutkan dengan Google</string>
+    <string name="already_have_account">Sudah punya akun? Masuk Sekarang</string>
+
+    <string name="welcome_title">Selamat Datang,</string>
+    <string name="login_subtitle">Senang melihat Anda!</string>
+    <string name="forgot_password">Lupa Kata Sandi?</string>
+    <string name="login_btn">Masuk</string>
+    <string name="or_login_with">Atau Masuk dengan</string>
+    <string name="dont_have_account">Belum punya akun? Daftar Sekarang</string>
+
+    <string name="forgot_password_title">Lupa kata sandi?</string>
+    <string name="forgot_password_subtitle">Jangan khawatir, ikuti saja\ninstruksinya.</string>
+    <string name="back_to_login">← Kembali ke Masuk</string>
+    <string name="send_btn">Kirim</string>
+
+    <string name="password_reset_title">Atur ulang kata sandi</string>
+    <string name="password_reset_subtitle">Kami mengirimkan kode ke\nRopan121@gmail.com</string>
+    <string name="continue_btn">Lanjutkan</string>
+    <string name="didnt_receive_email">Tidak menerima email?</string>
+    <string name="click_here">Klik di Sini</string>
+
+    <string name="set_new_password_title">Atur kata sandi baru</string>
+    <string name="set_new_password_subtitle">Harus minimal 8 karakter.</string>
+    <string name="enter_the_password">Masukkan Kata Sandi</string>
+    <string name="reset_password_btn">Atur Ulang Kata Sandi</string>
+
+    <string name="password_resetted_title">Kata sandi diatur ulang</string>
+    <string name="password_resetted_subtitle">Anda dapat kembali ke halaman Masuk.</string>
+
+    <string name="welcome_back_title">Selamat Datang Kembali,</string>
+    <string name="welcome_back_subtitle">Ayo Catat Pengeluaranmu</string>
+    <string name="btn_continue">Lanjutkan</string>
+    <string name="label_language">🇮🇩 Indonesia</string>
+
+    <string name="tab_home">Beranda</string>
+    <string name="tab_analysis">Analisis</string>
+    <string name="tab_report">Laporan</string>
+    <string name="btn_scan">Pindai</string>
+    <string name="menu_settings">Pengaturan</string>
+    <string name="title_expenses_today">Pengeluaran Hari Ini</string>
+    <string name="label_used_budget">Anggaran Terpakai</string>
+    <string name="btn_view_daily_report">Lihat Laporan Harian</string>
+    <string name="empty_expenses">Belum ada pengeluaran hari ini.</string>
+
+    <string name="title_basic_analysis">Analisis Dasar</string>
+    <string name="title_predictive_analysis">Analisis Prediktif</string>
+    <string name="desc_predictive_analysis">Perhatikan bahwa proses ini akan membaca pola pengeluaran Anda dan mungkin membutuhkan waktu untuk menghasilkan prediksi analisis pengeluaran yang dipersonalisasi.</string>
+    <string name="btn_start_analysis">Mulai Analisis</string>
+
+    <string name="title_lifetime_analysis">Analisis Keseluruhan</string>
+    <string name="label_lifetime_expenses">Total Pengeluaran</string>
+    <string name="label_expense_count">Jumlah Transaksi</string>
+    <string name="title_top_expense">Pengeluaran Terbesar</string>
+    <string name="empty_top_expense">Belum ada pengeluaran.</string>
+    <string name="label_january">Januari</string>
+    <string name="dummy_weekend_getaways">Liburan Akhir Pekan</string>
+
+    <string name="cat_transportation">Transportasi</string>
+    <string name="cat_healthcare">Kesehatan</string>
+    <string name="cat_entertainment">Hiburan</string>
+    <string name="cat_recurring">Pembayaran Rutin</string>
+    <string name="cat_shopping">Belanja</string>
+    <string name="cat_other">Pengeluaran Lainnya</string>
+
+    <string name="label_daily">Harian</string>
+    <string name="label_weekly">Mingguan</string>
+    <string name="label_monthly">Bulanan</string>
+
+    <string name="title_daily_analysis">Analisis Harian</string>
+    <string name="title_weekly_analysis">Analisis Mingguan</string>
+    <string name="title_monthly_analysis">Analisis Bulanan</string>
+
+    <string name="title_daily_insight">Wawasan Harian</string>
+    <string name="desc_daily_insight">Kamu telah mengelola anggaran dengan baik hari ini. Tetap pantau pengeluaran makanan dan kebutuhan harianmu.</string>
+    <string name="label_total_expense_today">Total Pengeluaran Hari Ini</string>
+    <string name="label_most_spent_category">Kategori Terbesar</string>
+    <string name="label_compared_to_yesterday">Dibanding Kemarin</string>
+    <string name="dummy_daily_total">Rp 150.000</string>
+    <string name="dummy_daily_cat">Makanan &amp; Belanja</string>
+    <string name="dummy_daily_compare">+ 5%</string>
+
+    <string name="title_weekly_insight">Wawasan Mingguan</string>
+    <string name="desc_weekly_insight">Pengeluaranmu dalam batas aman minggu ini. Pertahankan kebiasaan baik ini!</string>
+    <string name="label_total_expense_weekly">Total Pengeluaran Mingguan</string>
+    <string name="label_compared_to_last_week">Dibanding Minggu Lalu</string>
+    <string name="label_most_spent_day">Hari Terboros</string>
+
+    <string name="title_monthly_insight">Wawasan Bulanan</string>
+    <string name="desc_monthly_insight">Kerja bagus dalam mengelola anggaran bulananmu. Terus pantau pengeluaran rutinmu.</string>
+    <string name="label_total_expense_monthly">Total Pengeluaran Bulanan</string>
+    <string name="label_compared_to_last_month">Dibanding Bulan Lalu</string>
+    <string name="label_average_per_day">Rata-rata Per Hari</string>
+    <string name="label_most_spent_week">Minggu Terboros</string>
+
+    <string name="drawer_main_menu">Menu Utama</string>
+    <string name="drawer_personalization">Personalisasi</string>
+    <string name="drawer_all_expenses">Semua Pengeluaran</string>
+    <string name="drawer_setting">Pengaturan</string>
+    <string name="drawer_feedback">Umpan Balik</string>
+    <string name="drawer_logout">Keluar</string>
+
+    <string name="empty_all_expenses">Belum ada catatan pengeluaran.</string>
+
+    <string name="header_personalization">Personalisasi</string>
+    <string name="setting_email">Email</string>
+    <string name="setting_email_desc">Masukkan Email Anda</string>
+    <string name="setting_language">Bahasa</string>
+    <string name="setting_language_desc">Bawaan sistem</string>
+    <string name="setting_theme">Tema</string>
+    <string name="setting_theme_desc">Bawaan sistem</string>
+
+    <string name="header_cache">Singgahan (Cache)</string>
+    <string name="setting_delete_cache">Hapus cache</string>
+    <string name="setting_delete_cache_desc">Hapus semua cache aplikasi</string>
+    <string name="setting_cache_size">Ukuran cache</string>
+    <string name="setting_cache_size_desc">Ukuran cache ditetapkan pada 250 MB</string>
+
+    <string name="header_credit">Kredit</string>
+    <string name="setting_special_credit">Kredit khusus</string>
+    <string name="setting_special_credit_desc">RouSoft Private</string>
+
+    <string name="dialog_logout_title">Keluar</string>
+    <string name="dialog_logout_message">Apakah Anda yakin ingin keluar?</string>
+    <string name="dialog_cancel">Batal</string>
+
+    <!-- Teks Halaman Feedback -->
+    <string name="label_email">Email</string>
+    <string name="placeholder_email">Masukkan Email Anda</string>
+    <string name="label_message">Pesan</string>
+    <string name="placeholder_message">Pesan</string>
+    <string name="btn_send">Kirim</string>
+</resources>
